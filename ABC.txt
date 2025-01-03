@@ -1,0 +1,1 @@
+{'first_name': 'Gokul', 'last_name': 'P', 'user_name': 'gokulp', 'email_id': 'gokul@gmail.com', 'phone_no': '7869878070', 'password': 'Gokul@123', 'account_no': '10001', 'account_type': 'savings', 'balance': '4500'}
